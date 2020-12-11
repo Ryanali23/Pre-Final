@@ -5,7 +5,7 @@
 
   1. Clone the repository: 
     `git clone https://github.com/Ryanali23/Pre-Final.git `
-  2. Run the Pre_Final.java
+  2. Run the Pre_Final.java  
      `javac Pre_Final.java`  
      `java Pre_Final`  
   3. Enjoy and Explore :grin:
