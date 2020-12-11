@@ -1,7 +1,14 @@
-#Java Swing Basic 2 Inputs Calculator 
+# Java Swing 2 Input Calculator
 
-Computer Programming 2 task performance or Pre-Finals
+    Task performance for Pre-finals in Computer Programming 2
+# How to Run
 
-##Creator
-© Ryan A. Ali
+  1. Clone the repository: 
+    `git clone https://github.com/Ryanali23/Pre-Final.git `
+  2. Run the Pre_Final.java
+    `javac Pre_Final.java`
+    ` java Pre_Final  `
+  3. Enjoy and Explore :grin:
 
+
+## Created by Ryan Ali
