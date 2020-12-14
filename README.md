@@ -2,7 +2,7 @@
 
     Task performance for Pre-finals in Computer Programming 2
 # Requirements
-    - JDK 12 and Higher  
+     JDK 12 and Higher  
 # How to Run
 
   1. Clone the repository:  
