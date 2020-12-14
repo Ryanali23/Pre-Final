@@ -102,11 +102,11 @@ class Calculator{
         //constructor overloading
     }
     public void setOperator(String operation){
-        this.operation = operation;
+        Calculator.operation = operation;
     }
     public String getOperator(){
 
-        return this.operation;
+        return Calculator.operation;
     }
     public void calculate(){
         switch(operation){
